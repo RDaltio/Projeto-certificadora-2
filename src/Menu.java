@@ -1,5 +1,8 @@
 import java.util.Scanner;
 import Calculos.MRU;
+// import Calculos.MRUV;
+// import Calculos.MovimentoObliquo;
+// import Calculos.MovimentoVertical;
 
 public class Menu {
     public static void main(String[] args) {
@@ -41,12 +44,15 @@ public class Menu {
                     break;
                 case 2:
                     System.out.println("\nVocê escolheu a opção 2: Simular movimento retilíneo uniformemente variável");
+                    // MRUV.executarMRUV(scanner);
                     break;
                 case 3:
                     System.out.println("\nVocê escolheu a opção 3: Simular movimento vertical");
+                    // MovimentoVertical.executarMovimentoVertical(scanner);
                     break;
                 case 4:
                     System.out.println("\nVocê escolheu a opção 4: Simular movimento oblíquo");
+                    // MovimentoObliquo.executarMovimentoObliquo(scanner);
                     break;
                 case 5:
                     System.out.println("\nVocê escolheu a opção 5: Sair");
