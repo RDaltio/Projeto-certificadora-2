@@ -1,18 +1,19 @@
-## Getting Started
+# Certificadora 2
+Este projeto visa melhorar o processo de ensino e aprendizagem da cinemática no ensino médio, um tópico essencial da física que muitos estudantes acham desafiador devido à sua natureza abstrata. A cinemática se concentra no estudo dos movimentos dos objetos, mas muitas vezes, a abordagem tradicional de ensino baseia-se em fórmulas e cálculos teóricos, o que pode ser intimidante.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Nossa solução é um simulador de movimentos de cinemática, uma ferramenta educacional interativa que permite aos professores e alunos experimentar, visualizar e interagir com os princípios de cinemática de maneira concreta. Com esse simulador, é possível ajustar variáveis e observar em tempo real como essas mudanças afetam o movimento dos objetos. Isso torna a cinemática mais acessível e prática, aumentando o interesse dos alunos e melhorando sua compreensão.
 
-## Folder Structure
+## Equipe
 
-The workspace contains two folders by default, where:
+- João Claudio de Oliveira Silva
+- Mateus Luz Francischini Bonardi
+- Rafael Duarte Daltio
+- Eric Yuiti Kimura
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Stack utilizada
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Java
+## Link do repositório
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+[Link do GitHub](https://github.com/RDaltio/Projeto-certificadora-2)
