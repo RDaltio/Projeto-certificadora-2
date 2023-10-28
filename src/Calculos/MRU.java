@@ -20,7 +20,7 @@ public class MRU {
             posicaoInicial = scanner.nextDouble();
         } catch (InputMismatchException e) {
             System.out.println("\nEntrada inválida para a posição inicial. Certifique-se de inserir um número válido.");
-            scanner.nextLine(); // Limpa a entrada inválida
+            scanner.nextLine();
             definirEntradasParticulaMRU(particula, scanner);
             return;
         }
